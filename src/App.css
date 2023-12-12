@@ -4,7 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
-
+a:active{
+  border-bottom: aqua 2 solid;
+  color: chartreuse;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
